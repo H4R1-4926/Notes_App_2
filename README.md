@@ -1,3 +1,4 @@
-# yt_dupe
+# Note App 2
 
-A new Flutter project.
+Note App built with BLOC(Business Logic Components) and Hive.
+CRUD Functions.
